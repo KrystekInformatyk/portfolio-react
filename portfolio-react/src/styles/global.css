@@ -1,9 +1,0 @@
-:root {
-  --brand:#0ea5e9;
-}
-html,body{
-  scroll-behavior:smooth;
-}
-.brand-text{
-  color:var(--brand);
-}
