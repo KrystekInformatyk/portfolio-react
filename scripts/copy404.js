@@ -1,6 +1,6 @@
 // scripts/copy404.js
-import fs from 'fs';
-import path from 'path';
+const fs = require('fs');
+const path = require('path');
 
 const dist = path.resolve('dist');
 const src = path.join(dist, 'index.html');
